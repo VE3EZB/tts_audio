@@ -1,28 +1,5 @@
 #!/bin/bash
 #
-# tts-audio.sh - allstar Text to Speech
-#
-#  by w0anm
-#
-#  This scripts converts a text  file  to a  u-law audio file (ul).
-#
-
-# Now uses HTTP post method. Complete file is sent in
-# one pass.
- 
-# To use this script you must register with voicerss
-# and receive a key. See the TTS howto at hamvoip.org
-# for details.
-
-# File has one required parameter - the text file
-# name to process. Example -
-#
-# tts_audio somefile.txt
-
-
-#######################
-# $Id: tts_audio.sh 6 2016-03-07 15:29:59Z w0anm $
-
 # ---------------
 # Copyright (C) 2015, 2016 Christopher Kovacs, W0ANM
 # This program is free software; you can redistribute it and/or modify
