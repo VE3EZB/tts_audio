@@ -16,8 +16,6 @@
 # along with this program. If not, see http://www.gnu.org/licenses/.
 # ---------------
 #
-
-
 # check for configuration file (/usr/local/etc/tts.conf) and source it. 
 # if not preset or unable to get key error out.
 
